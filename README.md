@@ -1,3 +1,7 @@
+## Purpose
+
+The Purpose of this project was to help this profile's creator learn more about Routing in Typescript.
+
 # AngularRouterSample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
